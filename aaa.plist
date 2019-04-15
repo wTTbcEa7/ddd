@@ -11,7 +11,7 @@
                                     <key>kind</key>
                                     <string>software-package</string>
                                     <key>url</key>
-                                    <string>http://127.0.0.1:8848/dsadasdasd/cccc.ipa</string>
+                                    <string>http://${request.getServerName()}:8080/assetmaint/images/apk/tttt.ipa</string>
                                 </dict>
                         </array>
                         <key>metadata</key>
