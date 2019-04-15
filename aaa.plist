@@ -11,19 +11,19 @@
                                     <key>kind</key>
                                     <string>software-package</string>
                                     <key>url</key>
-                                    <string>http://192.168.0.101:8080/assetmaint/images/apk/tttt.ipa</string>
+                                    <string>http://192.168.0.101:8080/assetmaint/images/apk/emsapp.ipa</string>
                                 </dict>
                         </array>
                         <key>metadata</key>
                         <dict>
                             <key>bundle-identifier</key>
-                            <string>ggggg</string>
+                            <string>com.zhexuannet.net.emsapp</string>
                             <key>bundle-version</key>
                             <string>1.0.0</string>
                             <key>kind</key>
                             <string>software</string>
                             <key>title</key>
-                            <string>temmm</string>
+                            <string>this is emsapp for ios</string>
                         </dict>
                 </dict>
         </array>
